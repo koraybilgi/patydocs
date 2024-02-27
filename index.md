@@ -1,6 +1,6 @@
-## Paty Shopify Guides
+# Paty Shopify Guides
 
-### New Wholesaler Activation:
+## New Wholesaler Activation:
 
 1- GoTo: ___Customers -> Segments -> "Wholesalers waiting for approval"___
 
