@@ -3,6 +3,22 @@
 
 @import "{{ site.theme }}";
 
+body {
+  font: 16px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+ul, li, p {
+  margin: 0.5rem 0;
+}
+
+ul {
+  list-style: outside;
+}
+
+h2 {
+  margin: 0 0 1rem;
+}
+
 .button.fork {
   display: none!important;
 }
